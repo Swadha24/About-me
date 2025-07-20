@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/swadha-priya-dutta-1b45a5262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"> <img align="center" src="https://img.shields.io/badge/LINKEDIN-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /> </a>
 <a href="https://leetcode.com/your-username/" target="blank"> <img align="center" src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode" /> </a>
-<a href="https://twitter.com/your-handle" target="blank"> <img align="center" src="https://img.shields.io/badge/TWITTER-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /> </a>
+
 </p>
 
 ---
@@ -32,6 +32,6 @@
 #### Database:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
 
-#### Others:
+#### Tools:
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
