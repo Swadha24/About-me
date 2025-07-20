@@ -5,14 +5,14 @@
 - 🌱 I’m currently learning **React.js, Spring Boot, and SQL**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link.com)
 - 💬 Ask me about **Java, React, Spring Boot, SQL, DSA**
-- 📫 How to reach me: **swadha24@gmail.com**
+- 📫 How to reach me: **swadhapriyadutta@gmail.com**
 - 📄 Check out my [Resume](https://your-resume-link.com)
 
 ---
 
 ### 📫 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/your-profile" target="blank"> <img align="center" src="https://img.shields.io/badge/LINKEDIN-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /> </a>
+<a href="https://www.linkedin.com/in/swadha-priya-dutta-1b45a5262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"> <img align="center" src="https://img.shields.io/badge/LINKEDIN-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /> </a>
 <a href="https://leetcode.com/your-username/" target="blank"> <img align="center" src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode" /> </a>
 <a href="https://twitter.com/your-handle" target="blank"> <img align="center" src="https://img.shields.io/badge/TWITTER-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /> </a>
 </p>
